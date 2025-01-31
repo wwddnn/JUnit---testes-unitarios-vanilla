@@ -8,7 +8,7 @@
 - Resultado do teste deve ser o mesmo para os mesmos dados.
 
 ## ✅Conhecimentos adquiridos:
-- Aprendizado sobre como construir um teste em java usando a biblioteca do java chamada JUnit.
+- Aprendizado sobre como construir um teste em java usando a biblioteca do java chamada JUnit5.
 - Nomenclatura do teste deve ser: <ação> SHOULD <efeito> [when <cenário>].
 - Utilização do padrão AAA (Arrange, Act, Assertions) para montar a estrutura e o fluxo dos testes.
 - Usar a anotação @Test acima do código.
